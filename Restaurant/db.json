@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "ram kumar",
+      "email": "erasuribabu@gmail.com",
+      "mobile": "567890678",
+      "address": "dr.no:56-987,kphp,yerrabad,jigna pradesh",
+      "services": "developer"
+    },
+    {
+      "id": 3,
+      "name": "ryuii",
+      "email": "sewfr@gmail.com",
+      "mobile": "478512369",
+      "address": "rtyuudhjoiji",
+      "services": "backend"
+    },
+    {
+      "id": 4,
+      "name": "gvygyu",
+      "email": "jnbjbjb",
+      "mobile": "hbhjbj",
+      "address": "hbjb",
+      "services": "hhjuhju"
+    },
+    {
+      "id": 5,
+      "name": "dfdv",
+      "email": "vft",
+      "mobile": "thtyh",
+      "address": "hythy",
+      "services": "hytjyujukil"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": "4582",
+      "email": "966",
+      "mobile": "4822",
+      "address": "hkknj",
+      "services": "fdtrdtrfhhhhhhhhhhhhhhhhhhhhhh"
+    }
+  ],
+  "signup": [
+    {
+      "name": "khhn",
+      "email": "kjnkjnjki",
+      "mobile": "jnkjn",
+      "password": "jnkjnkjn",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,19 @@
+h2{
+    color: aliceblue;
+    
+}
+.btn1{
+    color:black;
+}
+.formstyle{
+    display:flex;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+input{
+    width:300px;
+}
+.btn2{
+    width:100px;
+}
